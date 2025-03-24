@@ -1,0 +1,1654 @@
+[
+  {
+    "name": "Cocoon",
+    "lifeforceCost": "0",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Construct",
+    "trait": "Immune to piercing damage. Cannot receive Minion Commands.",
+    "effect": "At the end of any turn, you may destroy this card and resurrect a 1-cost minion from your graveyard.",
+    "attack": "0",
+    "defense": "2"
+  },
+  {
+    "name": "Bloodbound Sentry",
+    "lifeforceCost": "1",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Vampire",
+    "trait": "Each time this minion deals damage during your turn, heal your hero for 1.",
+    "effect": "This card cost 0 if there is a minion on your field.",
+    "attack": "2",
+    "defense": "1"
+  },
+  {
+    "name": "Dreadnaught Berserker",
+    "lifeforceCost": "1",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Skeleton",
+    "trait": "+1 Attack against heroes.",
+    "effect": "Once per turn, when this card attacks and deals damage to a target, inflict 2 damage to an adjacent target.",
+    "attack": "1",
+    "defense": "2"
+  },
+  {
+    "name": "Flame Imp",
+    "lifeforceCost": "1",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Demon",
+    "trait": "On summon, burn a target for 1 damage.",
+    "effect": "This minion costs 0 if there is another minion on your field.",
+    "attack": "1",
+    "defense": "2"
+  },
+  {
+    "name:": "Jackal of Anubis",
+    "lifeforceCost": "1",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Beast",
+    "trait": "This minion gains +1 attack for every other 1 or lower cost minion on your field.",
+    "effect": "On death, inflict 2 damage to an enemy hero.",
+    "attack": "1",
+    "defense": "2"
+  },
+  {
+    "name": "Mummified Bat",
+    "lifeforceCost": "1",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Vampire",
+    "trait": "Flying",
+    "effect": "At the end of your turn, if this minion is damaged, heal it for 1.",
+    "attack": "1",
+    "defense": "1"
+  },
+  {
+    "name": "Piranha Swarm",
+    "lifeforceCost": "1",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Beast",
+    "trait": "+1 Attack against heroes.",
+    "effect": "This minion cannot attack heroes unless all other minions have been destroyed.",
+    "attack": "2",
+    "defense": "1"
+  },
+  {
+    "name": "Ravenous Ghoul",
+    "lifeforceCost": "1",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Zombie",
+    "trait": "+1 Attack against heroes.",
+    "effect": "+1 Attack for each other damaged minion on your field.",
+    "attack": "2",
+    "defense": "2"
+  },
+  {
+    "name": "Shadow Bat",
+    "lifeforceCost": "1",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Beast",
+    "trait": "This minion gains +1 attack for every other 1 or lower cost minion on your field.",
+    "effect": "On summon, inflict 1 damage to a target.",
+    "attack": "1",
+    "defense": "2"
+  },
+  {
+    "name": "Spiderling",
+    "lifeforceCost": "1",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Arachnid",
+    "trait": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+    "effect": "This minion gains +1 attack if it is adjacent to another minion.",
+    "attack": "1",
+    "defense": "1"
+  },
+  {
+    "name": "Frozen Horror",
+    "lifeforceCost": "1",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Eldritch",
+    "trait": "On death, return this minion to your hand.",
+    "effect": "Once during each of your turns, inflict 1 damage to an enemy minion.",
+    "attack": "2",
+    "defense": "1"
+  },
+  {
+    "name": "Lost Soul",
+    "lifeforceCost": "1",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Eldritch",
+    "trait": "Immune to piercing damage.",
+    "effect": "On death, this minion explodes, dealing its attack value as damage to all enemy minions. If this minion deals damage while attacking, it is destroyed.",
+    "attack": "1",
+    "defense": "1"
+  },
+  {
+    "name": "Dreadnaught Archer",
+    "lifeforceCost": "2",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Skeleton",
+    "trait": "+1 Attack against heroes.",
+    "effect": "When this minion attacks and deals damage, it can inflict 1 extra damage to any target.",
+    "attack": "2",
+    "defense": "2"
+  },
+  {
+    "name": "Dreadnaught Assassin",
+    "lifeforceCost": "2",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Skeleton",
+    "trait": "+1 Attack against heroes.",
+    "effect": "If this minion attacks the enemy hero, it becomes invisible and untargetable until it attacks again or takes damage.",
+    "attack": "2",
+    "defense": "2"
+  },
+  {
+    "name": "Hellhound",
+    "lifeforceCost": "2",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Demon",
+    "trait": "On summon, burn a target for 1 damage.",
+    "effect": "This minion gains +1 attack if there is another minion on your field.",
+    "attack": "2",
+    "defense": "2"
+  },
+  {
+    "name": "Restless Wanderer",
+    "lifeforceCost": "2",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Mummy",
+    "trait": "Resurrect this minion from your graveyard by paying it's lifeorce cost +1.",
+    "effect": "When attacking a minion during your turn this gains +1 attack.",
+    "attack": "2",
+    "defense": "2"
+  },
+  {
+    "name": "Blighted Bloodhound",
+    "lifeforceCost": "2",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Beast",
+    "trait": "This minion gains +1 attack for every other 2 or lower cost minion on your field.",
+    "effect": "Whenever this minion damages the enemy hero, gain 1 lifeforce.",
+    "attack": "2",
+    "defense": "1"
+  },
+  {
+    "name": "Vilefang Bloodweaver",
+    "lifeforceCost": "2",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Arachnid",
+    "trait": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+    "effect": "When this minion destroys an ensared minion, gain 2 lifeforce.",
+    "attack": "2",
+    "defense": "2"
+  },
+  {
+    "name": "Lucky Trickster",
+    "lifeforceCost": "2",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Eldritch",
+    "trait": "On summon, roll a die. On a 1, destroy this card. On a 6, roll again.",
+    "effect": "On a 1-2, gain 2 Lifeforce. On a 3-4, draw a card. On a 5-6, inflict 2 damage to an enemy hero.",
+    "attack": "2",
+    "defense": "2"
+  },
+  {
+    "name": "Nightmare Prowler",
+    "lifeforceCost": "2",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Familiar",
+    "trait": "While this minion is on the field, your hero takes 1 less damage from all sources.",
+    "effect": "Gain 1 lifeforce once during each of your turns.",
+    "attack": "2",
+    "defense": "2"
+  },
+  {
+    "name": "Nightmare Raven",
+    "lifeforceCost": "2",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Familiar",
+    "trait": "While this minion is on the field, your hero takes 1 less damage from all sources.",
+    "effect": "Draw a card once during each of your turns.",
+    "attack": "2",
+    "defense": "2"
+  },
+  {
+    "name": "Nightmare Rodent",
+    "lifeforceCost": "2",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Familiar",
+    "trait": "While this minion is on the field, your hero takes 1 less damage from all sources.",
+    "effect": "Enemy minions cards cost 1 more lifeforce to play.",
+    "attack": "2",
+    "defense": "2"
+  },
+  {
+    "name": "Dreadnaught Pyromancer",
+    "lifeforceCost": "3",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Skeleton",
+    "trait": "+1 Attack against heroes.",
+    "effect": "On summon, burn a target for 2 damage.",
+    "attack": "2",
+    "defense": "3"
+  },
+  {
+    "name": "Bloodbound Acolyte",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Vampire",
+    "trait": "Each time this minion deals damage during your turn, heal your hero for 1.",
+    "effect": "When this minion destroys an enemy minion, gain 1 lifeforce.",
+    "attack": "3",
+    "defense": "3"
+  },
+  {
+    "name": "Eternal Bloodmage",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Vampire",
+    "trait": "Each time this minion deals damage during your turn, heal your hero for 1.",
+    "effect": "When this minion destroys an enemy minion, draw a card.",
+    "attack": "3",
+    "defense": "3"
+  },
+  {
+    "name": "Guardian of the Tomb",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Mummy",
+    "trait": "Resurrect this minion from your graveyard by paying it's lifeorce cost +1.",
+    "effect": "While on the field, this minion gains +1 attack for each minion in your graveyard, up to a maximum of 2.",
+    "attack": "2",
+    "defense": "3"
+  },
+  {
+    "name": "Grove Hag",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Witch",
+    "trait": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+    "effect": "Heal your hero for 1 at the end of your turn, or 3 if you control 3 or more minions.",
+    "attack": "3",
+    "defense": "3"
+  },
+  {
+    "name": "Mire Hag",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Witch",
+    "trait": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+    "effect": "Inflict 1 damage to the enemy hero at the end of your turn, or 3 if you control 3 or more minions.",
+    "attack": "3",
+    "defense": "3"
+  },
+  {
+    "name": "Night Hag",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Witch",
+    "trait": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+    "effect": "Gain 1 lifeforce when this minion damages the enemy hero or 2 if you control 3 or more minions.",
+    "attack": "3",
+    "defense": "3"
+  },
+  {
+    "name": "Vilefang Assassin",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Arachnid",
+    "trait": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+    "effect": "On summon, target and destroy an enemy minion with 2 or less defense.",
+    "attack": "3",
+    "defense": "2"
+  },
+  {
+    "name": "Firebrand Ravager",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Minion",
+    "minionType": "Demon",
+    "trait": "On summon, burn a target for 1 damage.",
+    "effect": "Burn the enemy for 1 damage for every other minion on your field at the end of your turn.",
+    "attack": "2",
+    "defense": "2"
+  },
+  {
+    "name": "Ashen Fiend",
+    "lifeforceCost": "4",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Demon",
+    "trait": "On summon, burn a target for 1 damage.",
+    "effect": "Once per turn, when this minion attacks and deals damage, immediately burn two adjacent targets for 2 damage.",
+    "attack": "4",
+    "defense": "2"
+  },
+  {
+    "name": "Dreadnaught Sorcerer",
+    "lifeforceCost": "4",
+    "rarity": "Common",
+    "type": "Minion",
+    "minionType": "Skeleton",
+    "trait": "+1 Attack against heroes.",
+    "effect": "On summon, ensare a minion in ice, preventing it from receiving Minion Commands for 1 round.",
+    "attack": "3",
+    "defense": "4"
+  },
+  {
+    "name": "Bloodbound Knight",
+    "lifeforceCost": "4",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Vampire",
+    "trait": "Each time this minion deals damage during your turn, heal your hero for 1.",
+    "effect": "On summon, give this or another minion +2 attack this turn.",
+    "attack": "3",
+    "defense": "4"
+  },
+  {
+    "name": "Venomous Webweaver",
+    "lifeforceCost": "4",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Arachnid",
+    "trait": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+    "effect": "On summon, ensare a minion in webs, preventing it from receiving Minion Commands for 1 round.",
+    "attack": "4",
+    "defense": "3"
+  },
+  {
+    "name": "Scarecrow",
+    "lifeforceCost": "4",
+    "rarity": "Epic",
+    "type": "Minion",
+    "minionType": "Eldritch",
+    "trait": "A minion across from this minion becomes ensnared, preventing it from performing Minion Commands.",
+    "effect": "When this minion attacks an ensnared minion, it gains +2 Attack.",
+    "attack": "4",
+    "defense": "3"
+  },
+  {
+    "name": "Nightmare Harbinger",
+    "lifeforceCost": "4",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Vampire",
+    "trait": "Each time this minion deals damage during your turn, heal your hero for 1.",
+    "effect": "On summon, you may summon two 1-cost minions from your hand, deck, or graveyard.",
+    "attack": "2",
+    "defense": "2"
+  },
+  {
+    "name": "Hellspawn",
+    "lifeforceCost": "5",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Demon",
+    "trait": "On summon, burn a target for 2 damage.",
+    "effect": "When attacking a minion during your turn this gains +2 attack.",
+    "attack": "4",
+    "defense": "4"
+  },
+  {
+    "name": "Vilefang Broodmother",
+    "lifeforceCost": "5",
+    "rarity": "Rare",
+    "type": "Minion",
+    "minionType": "Arachnid",
+    "trait": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+    "effect": "On death, you may summon a minion that costs 2 or less from your hand, deck, or graveyard.",
+    "attack": "4",
+    "defense": "3"
+  },
+  {
+    "name": "Crypt Keeper",
+    "lifeforceCost": "5",
+    "rarity": "Epic",
+    "type": "Minion",
+    "minionType": "Mummy",
+    "trait": "Resurrect this minion from your graveyard by paying it's lifeorce cost +1.",
+    "effect": "Destroy this minion at the end of your turn. On death, during your turn or at the end, resurrect a minion with a cost of 7 or less from your graveyard.",
+    "attack": "3",
+    "defense": "2"
+  },
+  {
+    "name": "Dreadnaught Warlock",
+    "lifeforceCost": "5",
+    "rarity": "Epic",
+    "type": "Minion",
+    "minionType": "Skeleton",
+    "trait": "+1 Attack against heroes.",
+    "effect": "Once during each of your turns, burn a target for 2 damage.",
+    "attack": "4",
+    "defense": "5"
+  },
+  {
+    "name": "Eternal Watcher",
+    "lifeforceCost": "5",
+    "rarity": "Epic",
+    "type": "Minion",
+    "minionType": "Mummy",
+    "trait": "Resurrect this minion from your graveyard by paying it's lifeorce cost +1.",
+    "effect": "Costs 1 less for every other minion in your graveyard, up to a maximum of 3.",
+    "attack": "3",
+    "defense": "3"
+  },
+  {
+    "name": "Hellfire Brute",
+    "lifeforceCost": "5",
+    "rarity": "Epic",
+    "type": "Minion",
+    "minionType": "Demon",
+    "trait": "On summon, burn a target for 2 damage.",
+    "effect": "During your turn, when this minion destroys a target, burn all enemy minions for 1 damage.",
+    "attack": "5",
+    "defense": "3"
+  },
+  {
+    "name": "Keeper of Dark Woods",
+    "lifeforceCost": "5",
+    "rarity": "Epic",
+    "type": "Minion",
+    "minionType": "Witch",
+    "trait": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+    "effect": "Once during each of your turns, you may summon a 2-cost minion from your deck or graveyard.",
+    "attack": "4",
+    "defense": "5"
+  },
+  {
+    "name": "Bloodbound Maiden",
+    "lifeforceCost": "5",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Vampire",
+    "trait": "Each time this minion deals damage during your turn, heal your hero for 1.",
+    "effect": "On summon, you may summon a minion with a cost 4 or less from your hand, deck, or graveyard.",
+    "attack": "3",
+    "defense": "3"
+  },
+  {
+    "name": "Blazing Hellion",
+    "lifeforceCost": "6",
+    "rarity": "Epic",
+    "type": "Minion",
+    "minionType": "Demon",
+    "trait": "On summon, burn a target for 2 damage.",
+    "effect": "When this minion attacks and deals damage, immediately burn twon adjacent targets for 2 damage.",
+    "attack": "6",
+    "defense": "5"
+  },
+  {
+    "name": "Dark Sorcerer",
+    "lifeforceCost": "6",
+    "rarity": "Epic",
+    "type": "Minion",
+    "minionType": "Warlock",
+    "trait": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+    "effect": "On summon, inflict 2 damage to 2 targets.",
+    "attack": "6",
+    "defense": "5"
+  },
+  {
+    "name": "Hellguard",
+    "lifeforceCost": "6",
+    "rarity": "Epic",
+    "type": "Minion",
+    "minionType": "Demon",
+    "trait": "On summon, burn a target for 2 damage.",
+    "effect": "This minion receives 1 less damage from minion attacks.",
+    "attack": "5",
+    "defense": "6"
+  },
+  {
+    "name": "Bloodbound Flayer",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Vampire",
+    "trait": "Each time this minion deals damage during your turn, heal your hero for 1.",
+    "effect": "This minion's attacks cannot be defended against. If it destroys an enemy minion, it may attack again this turn.",
+    "attack": "5",
+    "defense": "5"
+  },
+  {
+    "name": "Corrupted Sphinx",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Mythical Beast",
+    "trait": "When this minion takes damage, inflict half to an enemy Hero. (round down)",
+    "effect": "On summon, you can destroy an opponent's Magic card.",
+    "attack": "5",
+    "defense": "5"
+  },
+  {
+    "name": "Dreadnaught Summoner",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Skeleton",
+    "trait": "+1 Attack against heroes.",
+    "effect": "Once during each of your turns, you may summon a minion from your hand, deck, or graveyard with a cost of 4 or less.",
+    "attack": "4",
+    "defense": "4"
+  },
+  {
+    "name": "Vilefang Summoner",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Arachnid",
+    "trait": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+    "effect": "On summon, you may summon a 4 or less cost minion from your hand, deck, or graveyard.",
+    "attack": "4",
+    "defense": "5"
+  },
+  {
+    "name": "Ancient Nightmare",
+    "lifeforceCost": "7",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Eldritch",
+    "trait": "All enemy minions have their attack values reduced by 1.",
+    "effect": "On summon, target and destroy an enemy minion.",
+    "attack": "6",
+    "defense": "6"
+  },
+  {
+    "name": "Blood Baron",
+    "lifeforceCost": "7",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Vampire",
+    "trait": "Each time this minion deals damage during your turn, heal your hero for 1.",
+    "effect": "On summon, resurrect a minion that costs 5 or less from your graveyard.",
+    "attack": "5",
+    "defense": "7"
+  },
+  {
+    "name": "Dark Mage Malakar",
+    "lifeforceCost": "7",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Warlock",
+    "trait": "Gain +1 attack for each spell you cast this turn until the end of the turn.",
+    "effect": "Once during each of your turns, if this card destroys an enemy minion, you may cast a spell from your graveyard consting 5 or less, then remove it from play.",
+    "attack": "6",
+    "defense": "7"
+  },
+  {
+    "name": "Giant Tomb Spider",
+    "lifeforceCost": "7",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Arachnid",
+    "trait": "On death, if you control no minions, you may summon a cheaper minion from your graveyard.",
+    "effect": "This minion's attacks during your turn also damage an adjacent target.",
+    "attack": "6",
+    "defense": "5"
+  },
+  {
+    "name": "Avatar of Anubis",
+    "lifeforceCost": "10",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Deity",
+    "trait": "Once during each of your turns, inflict 2 damage to all enemy minions.",
+    "effect": "On summon, resurrect a minion from the enemy graveyard.",
+    "attack": "6",
+    "defense": "8"
+  },
+  {
+    "name": "Blazing Cerberus",
+    "lifeforceCost": "10",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Demon",
+    "trait": "On summon, burn a target for 3 damage.",
+    "effect": "This minion can attack 3 times, but it cannot attack the same target twice in one turn.",
+    "attack": "5",
+    "defense": "8"
+  },
+  {
+    "name": "Blood King Lucius",
+    "lifeforceCost": "10",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Vampire"
+  },
+  {
+    "name": "Molten Terror",
+    "lifeforceCost": "10",
+    "rarity": "Legendary",
+    "type": "Minion",
+    "minionType": "Demon",
+    "trait": "On summon, burn a target for 3 damage.",
+    "effect": "Once per turn, when this minion attacks and deals damage, immediately burn two other minions for 2 damage.",
+    "attack": "8",
+    "defense": "8"
+  },
+  {
+    "name": "Book of Shadows",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Your spells cost 1 less lifeforce to cast.",
+    "defense": "2"
+  },
+  {
+    "name": "Lightning Obelisk",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Once during each of your turns, inflict 2 damage to an enemy target.",
+    "defense": "3"
+  },
+  {
+    "name": "Coffin of Reawakening",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "When a friendly minion is destroyed, you may place it in this coffin instead of the graveyard. At the start of your next turn, return the minion to the field. Only one minion can be held in the coffin at a time.",
+    "defense": "3"
+  },
+  {
+    "name": "Grave",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Resurrects a minion from your graveyard with a cost of 5 or less. The minion is destroyed if this card is destroyed.",
+    "defense": "2"
+  },
+  {
+    "name": "Haunted Window",
+    "lifeforceCost": "3",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Once during each of your turns, empower a minion increasing its attack and defense by 2 until the end of the turn.",
+    "defense": "2"
+  },
+  {
+    "name": "Witch's Cauldron",
+    "lifeforceCost": "4",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Once during each of your turns, reveal a minion or spell from your deck and add it to your hand.",
+    "defense": "3"
+  },
+  {
+    "name": "Bone Pile",
+    "lifeforceCost": "5",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Once during each of your turns, summon a minion from your hand, deck, or graveyard with a cost of 6 or less.\nIf this card is destroyed so are all of the minions summoned this way.",
+    "defense": "3"
+  },
+  {
+    "name": "Dreadweaver's Eye",
+    "lifeforceCost": "5",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Once per turn, when this card is destroyed or a friendly minion dies, draw a card.",
+    "defense": "3"
+  },
+  {
+    "name": "Eternal Tomb",
+    "lifeforceCost": "5",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Resurrect a minion from your graveyard with a cost of 7 or less. The minion is destroyed if this card is destroyed.",
+    "defense": "3"
+  },
+  {
+    "name": "Hellfire Forge",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Once during each of your turns, you may cast a spell from your graveyard costing 3 or less, then remove it from play.",
+    "defense": "4"
+  },
+  {
+    "name": "Nest of Shadows",
+    "lifeforceCost": "5",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Once during each of your turns, summon a minion with a cost of 4 or less from your hand, deck, or graveyard.",
+    "defense": "3"
+  },
+  {
+    "name": "Tome of the Dead",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Once during each of your turns, you may summon a minion from your graveyard with a cost of 8 or less.",
+    "defense": "4"
+  },
+  {
+    "name": "Sarcophagus",
+    "lifeforceCost": "5",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Summon a minion that costs 7 or less from your hand, deck, or graveyard.\nIf this card is destroyed, so does the summoned minion.",
+    "defense": "3"
+  },
+  {
+    "name": "Shrine of Anubis",
+    "lifeforceCost": "5",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Once during each of your turns, resurrect a 7 or less cost minion from your graveyard.\nThe minion is destroyed if this card is destroyed at the end of your turn.",
+    "defense": "3"
+  },
+  {
+    "name": "Hellgate",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "When this card is played, reveal and add two minions from your deck to your hand.\nWhile this card is on the field, yours minions cost 2 less to summon.",
+    "defense": "3"
+  },
+  {
+    "name": "Cursed Idol",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Once during each of your turns, you may destroy a target minion with 3 or less defense.",
+    "defense": "4"
+  },
+  {
+    "name": "Dreadnaught's Banner",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "+1 Attack for all friendly minions. This effect lasts until the end of your turn.",
+    "defense": "4"
+  },
+  {
+    "name": "Phylactery",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "When your minions are destroyed, attach them to this card instead of sending them to the graveyard. You can resummon them at the start of your next turn. If this card is destroyed, so are the attached minions.",
+    "defense": "4"
+  },
+  {
+    "name": "Ritual Altar",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Artifact",
+    "text": "Once during each of your turns, cast a spell from your graveyard without paying its cost, then remove it from the game.",
+    "defense": "4"
+  },
+  {
+    "name": "Bloodcurdling Scream",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "Enemy minions on the field lose 2 attack and defense.",
+    "duration": "1"
+  },
+  {
+    "name": "Dark Ritual",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "Gain 3 lifeforce.",
+    "duration": "Instant"
+  },
+  {
+    "name": "Ensnare",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "Choose a minion. It cannot perform Minion Commands until the end of your next turn.",
+    "duration": "Until end of next turn"
+  },
+  {
+    "name": "Hellfire Storm",
+    "lifeforceCost": "4",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "Inflict 3 damage to all enemy minions and the enemy hero.",
+    "duration": "Instant"
+  },
+  {
+    "name": "Demonic Convergence",
+    "lifeforceCost": "3",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "When a friendly minion dies, attach it to this card. When this card leaves play, summon a minion from your hand, deck, or graveyard with a cost up to the combined total lifeforce cost of the attached minions (max 10).",
+    "duration": "2"
+  },
+  {
+    "name": "Sandstorm",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "All enemy minions have their attack values reduced by 1.",
+    "duration": "2"
+  },
+  {
+    "name": "Vilefang Swarm",
+    "lifeforceCost": "4",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "Summon a 1/1 Vilefang minion for each minion you control.",
+    "duration": "Instant"
+  },
+  {
+    "name": "Withering Curse",
+    "lifeforceCost": "4",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "Choose a minion. It loses 2 attack and defense until the end of your next turn.",
+    "duration": "Until end of next turn"
+  },
+  {
+    "name": "Blood Pact",
+    "lifeforceCost": "5",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "Gain control of an enemy minion with 3 or less attack until the end of your next turn.",
+    "duration": "Until end of next turn"
+  },
+  {
+    "name": "Dreadnaught's Command",
+    "lifeforceCost": "5",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "+2/+2 to a friendly minion. It can attack immediately.",
+    "duration": "Instant"
+  },
+  {
+    "name": "Blood Moon Ritual",
+    "lifeforceCost": "4",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "Give all friendly minions +1 attack during your turn and +1 defense during the enemy's turn.",
+    "duration": "2"
+  },
+  {
+    "name": "Blood Oath Ceremony",
+    "lifeforceCost": "4",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "When you summon a minion, restore 1 health to your hero.",
+    "duration": "3"
+  },
+  {
+    "name": "Summoning Circle",
+    "lifeforceCost": "4",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "Once during each of your turns, summon a minion with a cost of 3 or less from your deck.",
+    "duration": "3"
+  },
+  {
+    "name": "Frenzy",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Event",
+    "text": "All of your minions gain +2 attack.",
+    "duration": "1"
+  },
+  {
+    "name": "Blood Crypt",
+    "lifeforceCost": "4",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Land",
+    "text": "When a minion is destroyed, inflict 1 damage to the enemy hero."
+  },
+  {
+    "name": "Dark Woods",
+    "lifeforceCost": "4",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Land",
+    "text": "At the end of your turn, if you control 3 or more minions, heal your hero for 3."
+  },
+  {
+    "name": "Eternal Battlefield",
+    "lifeforceCost": "4",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Land",
+    "text": "Once during each of your turns, you may summon a minion from your graveyard with a cost of 2 or less."
+  },
+  {
+    "name": "Hellfire Peninsula",
+    "lifeforceCost": "4",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Land",
+    "text": "Once during each of your turns, burn a target for 1 damage."
+  },
+  {
+    "name": "Necroforge Citadel",
+    "lifeforceCost": "4",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Land",
+    "text": "Draw a card during each of your turns."
+  },
+  {
+    "name": "Witch's Den",
+    "lifeforceCost": "4",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Land",
+    "text": "Twice per round, when you cast a spell, inflict 1 damage to all enemy minions."
+  },
+  {
+    "name": "Catacombs of the Cursed",
+    "lifeforceCost": "4",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Land",
+    "text": "All enemy minions lose their traits and have their defense value reduced by 1."
+  },
+  {
+    "name": "Spider Cave",
+    "lifeforceCost": "5",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Land",
+    "text": "Once per turn, when a friendly minion dies, gain 2 lifeforce."
+  },
+  {
+    "name": "Necropolis of the Damned",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Land",
+    "text": "Once per turn, when a minion you control is destroyed, you may summon a minion with a different name from you hand or deck with a cost 5 or less."
+  },
+  {
+    "name": "Pyramid of Eternity",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Land",
+    "text": "Once during each of your turns, resurrect a minion from your graveyard at half the cost (rounded up), then send a card from your hand or deck to the graveyard."
+  },
+  {
+    "name": "Amulet of Eternity",
+    "lifeforceCost": "2",
+    "rarity": "Common",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "Attach this to a minion, it gains +2 attack on your turn."
+  },
+  {
+    "name": "Tomb Raider's Bane",
+    "lifeforceCost": "2",
+    "rarity": "Common",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "Attach this to an enemy minion. The attached minion loses its trait and effect.\nThis card be played on any turn."
+  },
+  {
+    "name": "Spinneret Amulet",
+    "lifeforceCost": "2",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "During any turn, attach this to a friendly minion.\nWhen that minion is destroyed, return it to your hand."
+  },
+  {
+    "name": "Cursed Blade",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "Attach this to a minion. It gains +2 attack and your hero takes 1 damage at the end of your turn."
+  },
+  {
+    "name": "Vampire's Kiss",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "Attach this to a friendly minion. At the end of your turn, if that minion is still on the field, heal your hero for 2."
+  },
+  {
+    "name": "Hellfire Pendant",
+    "lifeforceCost": "4",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "During any turn, attach this to a friendly minion.\nWhen that minion attacks, burn the enemy hero for 2."
+  },
+  {
+    "name": "Witch's Brew",
+    "lifeforceCost": "4",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "During any turn, attach this to a friendly minion.\nAt the end of your turn, if that minion is still on the field, draw a card."
+  },
+  {
+    "name": "Noxious Loop",
+    "lifeforceCost": "3",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "Attach this a minion.\nIt gains +3 attack."
+  },
+  {
+    "name": "Bloodforged Blade",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "Attach to a minion. It gains +2 attack. When this minion deals damage, heal your hero for 2 health."
+  },
+  {
+    "name": "Stormcaller's Signet",
+    "lifeforceCost": "5",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "Attach this to a minion.\nIt gains 1 extra attack."
+  },
+  {
+    "name": "Crown of Madness",
+    "lifeforceCost": "5",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "Attach this card to an enemy minion.\nOnce during each of your turns, you can force it to attack all other enemy minions in any order."
+  },
+  {
+    "name": "Ring of Souls",
+    "lifeforceCost": "5",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "Attach this to a minion.\nIt gains +2 attack. When this minion is destroyed, summon a 2/2 copy of it."
+  },
+  {
+    "name": "Atropal's Ring",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Relic",
+    "text": "Attach this card to an enemy minion to take control of it. If this card is destroyed, return the minion to its original owner's field. If their field is full, send it to their graveyard instead."
+  },
+  {
+    "name": "Ensnare",
+    "lifeforceCost": "1",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Ensnare a target minion in a web, preventing it from receiving Minion Commands for 1 round.\nThis card can be played on any turn."
+  },
+  {
+    "name": "Shadow Nova",
+    "lifeforceCost": "1",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Inflict 1 damage to all enemy minions."
+  },
+  {
+    "name": "Lightning Bolt",
+    "lifeforceCost": "2",
+    "rarity": "Common",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Inflict 2 damage to two different targets."
+  },
+  {
+    "name": "Drain Soul",
+    "lifeforceCost": "2",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Inflict 2 damage to a target.\nIf the taregt is destroyed, gain 1 lifeforce."
+  },
+  {
+    "name": "Ice Bolt",
+    "lifeforceCost": "2",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Fire two ice bolts, each inflicting 1 damage and ensnaring their targets in ice, preventing them from receiving Minion Commands for 1 round.\nThis card can be played on any turn."
+  },
+  {
+    "name": "Nesting Ground",
+    "lifeforceCost": "2",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Reveal two 0-cost minions from your deck or graveyard and add them to your hand."
+  },
+  {
+    "name": "Vampiric Touch",
+    "lifeforceCost": "2",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Inflict 2 damage to a target and heal your hero for 2."
+  },
+  {
+    "name": "Healing Potion",
+    "lifeforceCost": "2",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Heal your hero for 6 health.\nThis card can be played on any turn."
+  },
+  {
+    "name": "Bile",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Inflict 1 damage to all enemy minions twice."
+  },
+  {
+    "name": "Dark Resurrection",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Resurrect a minion with a cost of 5 or less from your graveyard."
+  },
+  {
+    "name": "Electrocute",
+    "lifeforceCost": "3",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Inflict 2 damage to a target and 1 damage to all enemy characters."
+  },
+  {
+    "name": "Dispel Magic",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Negate and destroy an enemy magic card.\tThis card can be played on any turn."
+  },
+  {
+    "name": "Eldritch Blast",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Inflict 4 damage to an enemy hero or minion."
+  },
+  {
+    "name": "Eldritch Recall",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Return up to two spell cards from your graveyard to your hand."
+  },
+  {
+    "name": "Hex of Weakness",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Reduce an enmy minion's attack and defense to 1 until the end of your turn."
+  },
+  {
+    "name": "Shadow Harvest",
+    "lifeforceCost": "3",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Inflict 2 damage to an enemy minion. If it is destroyed, summon a 2-cost minion from deck or graveyard."
+  },
+  {
+    "name": "Disintegrate",
+    "lifeforceCost": "4",
+    "rarity": "Rare",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Target and destroy a minion.\nThis card can be played on any turn."
+  },
+  {
+    "name": "Banish",
+    "lifeforceCost": "4",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Discard a card from your hand, then remove an enemy minion from the game."
+  },
+  {
+    "name": "Echoes of the Underworld",
+    "lifeforceCost": "4",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Summon 3 minions from your hand, deck, or graveyard that 1."
+  },
+  {
+    "name": "Silk Bind",
+    "lifeforceCost": "4",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Ensnare all enemy minions in a web, preventing them from receiving Minion Commands for 1 round."
+  },
+  {
+    "name": "Soul Drain",
+    "lifeforceCost": "4",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Inflict 2 damage to all enemy minions.\nHeal your hero for each enemy damaged this way."
+  },
+  {
+    "name": "Veil of Darkness",
+    "lifeforceCost": "4",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "All friendly minions gain invisibility, becoming untargetable until they attack or are damaged."
+  },
+  {
+    "name": "Anubis' Vengeance",
+    "lifeforceCost": "5",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Inflict 2 damage to all enemy minions and heal 2 for each destroyed."
+  },
+  {
+    "name": "Dark Revelation",
+    "lifeforceCost": "5",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Draw a card. Deal damage to all enemy minions equal to the drawn card's lifeeforce cost, up to a maximum of 5 damage."
+  },
+  {
+    "name": "Incinerate",
+    "lifeforceCost": "5",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Burn up to three different enemy targets for 3 damage each."
+  },
+  {
+    "name": "Mind Shatter",
+    "lifeforceCost": "5",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Look at the hand of the enemy player and destroy a card."
+  },
+  {
+    "name": "Infested Swarm",
+    "lifeforceCost": "6",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Inflict 2 damage to all enemy minions, then summon a 1 or lower cost minion from your hand, deck, or graveyard for each one destroyed."
+  },
+  {
+    "name": "Wrath of Anubis",
+    "lifeforceCost": "6",
+    "rarity": "Epic",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Target and destroy a minion, inflicting damage to an ememy Hero equal to half its lifeforce cost (rounded down)."
+  },
+  {
+    "name": "Chaos Bolt",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Burn a target for 8 damage."
+  },
+  {
+    "name": "Ka's Embrace",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Double a minion's attack until the end of the turn."
+  },
+  {
+    "name": "Poison Spray",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Inflict 5 damage to a target and 3 damage to adjacent characters."
+  },
+  {
+    "name": "Whispers of the Ba",
+    "lifeforceCost": "6",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Resurrect a minion from your graveyard, then send one from your deck to the graveyard."
+  },
+  {
+    "name": "Hellfire",
+    "lifeforceCost": "7",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Burn all enemies characters for 4 damage."
+  },
+  {
+    "name": "Call Minions",
+    "lifeforceCost": "?",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Summon any number of minions from your hand, deck, or graveyard paying the lifeforce cost for each +1. The combined lifeforce cost cannot exceed 10."
+  },
+  {
+    "name": "Coven of Shadows",
+    "lifeforceCost": "?",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "You may summon up to 3 minions from your deck with cost of 3. The cost of this card is the total lifeforce of the summoned minions plus 1."
+  },
+  {
+    "name": "Necrotic Infusion",
+    "lifeforceCost": "?",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "Resurrect up to 4 minions from your graveyard. The cost of this card is their total lifeforce cost. The total cost cannot exceed 10. At the end of the turn, they are destroyed."
+  },
+  {
+    "name": "Tethered Spirits",
+    "lifeforceCost": "?",
+    "rarity": "Legendary",
+    "type": "Magic",
+    "magicType": "Spell",
+    "text": "You may summon up to 4 minions from your deck with a cost of 2. The cost of this card is the total lifeforce of the summoned minions plus 1."
+  },
+  {
+    "name": "Anubis, Ruler of the Underworld",
+    "type": "Hero",
+    "heroAbilities": [
+      {
+        "name": "Death's Harvest",
+        "text": "Once per round, when a minion dies on an enemy player's turn, gain 1 lifeforce."
+      },
+      {
+        "name": "Keeper of the Dead",
+        "text": "At the end of your turn you may send 1 minion from your deck to your graveyard."
+      },
+      {
+        "name": "Necrotic Strength",
+        "text": "During your turn, when you summon a minion from the graveyard, it gains +1 attack until the end of the turn."
+      },
+      {
+        "name": "Death's Bargain",
+        "text": "Once during each of your turns, you can resurrect a minion from your graveyard by paying its cost. At the end of your turn, banish the minion from the game."
+      }
+    ]
+  },
+  {
+    "name": "Arachnia, the Dreadweaver",
+    "type": "Hero",
+    "heroAbilities": [
+      {
+        "name": "Early Entombment",
+        "text": "At the start of the game you may send 4 minions from your deck that cost 1 or less to the greveyard."
+      },
+      {
+        "name": "Toxic Webs",
+        "text": "Ensnared enemy minions have their defense reduced by 2."
+      },
+      {
+        "name": "Web",
+        "text": "Once per turn, you may spend 2 lifeforce to ensnare a target minion in a web, preventing it from receiving Minion Commands for 1 round."
+      },
+      {
+        "name": "Swarm",
+        "text": "Once during each of your turns you may spend 6 lifeforce to summon a number of minions from the graveyard with a combined cost of 4 or less."
+      }
+    ]
+  },
+  {
+    "name": "Atropal, the Soulweaver",
+    "type": "Hero",
+    "heroAbilities": [
+      {
+        "name": "Hell's Favor",
+        "text": "The first minion you play each turn cost 2 less."
+      },
+      {
+        "name": "Soul Harvest",
+        "text": "During your turn you can destroy friendly minions to gain 1 lifeforce for each. Their effects are negated."
+      },
+      {
+        "name": "Soul Weave",
+        "text": "Once during each of your turns, you may spend 3 lifeforce to empower a minion, increasing its attack and defense by 3. The minion is destroyed at the end of your turn."
+      },
+      {
+        "name": "Dark Summoning",
+        "text": "Once during each of your turns, you may spend 3 lifeforce to summon two 1 cost minions from your hand, deck, or graveyard."
+      }
+    ]
+  },
+  {
+    "name": "Blood Queen Valeria",
+    "type": "Hero",
+    "heroAbilities": [
+      {
+        "name": "Blood Harvet",
+        "text": "Gain 1 health whenever a minion dies during your turn, up to a maximum of 4 health per turn."
+      },
+      {
+        "name": "Blood Magic",
+        "text": "Once during each of your turns, you can cast the Draw or Destroy Magic Hero Abilities using Health instead of Lifeforce."
+      },
+      {
+        "name": "Dominate Will",
+        "text": "Once during each of your turns, you may spend 4 lifeforce to temporarily take control of an enemy minion. You take damage equal to that minions lifeforce cost. At the end of your turn, return the minion to the opponent, regardless of its status."
+      },
+      {
+        "name": "Judgment of the Dead",
+        "text": "Once during each of your turns, you may spend 6 lifeforce. The cards you play this turn cost health instead of lifeforce, up to 10 health."
+      }
+    ]
+  },
+  {
+    "name": "Morgana the Dark Enchantress",
+    "type": "Hero",
+    "heroAbilities": [
+      {
+        "name": "Arcane Infusion",
+        "text": "The first two spells you cast each round regenerate 1 lifeforce."
+      },
+      {
+        "name": "Witching Hour",
+        "text": "You can cast spells at any time during either player's turn."
+      },
+      {
+        "name": "Conjure Familiar",
+        "text": "Once during each of your turns, you may spend 3 lifeforce to summon a 2 or less cost minion from your deck or graveyard."
+      },
+      {
+        "name": "Once during each of your turns, you may cast a spell with a cost of 5 or less from your deck by paying its cost plus an additional lifeforce."
+      }
+    ]
+  },
+  {
+    "name": "Ragnar the Malignant",
+    "type": "Hero",
+    "heroAbilities": [
+      {
+        "name": "Guided Hand",
+        "text": "Once during each of your turns, if you draw a minion, reveal it, and then draw another card."
+      },
+      {
+        "name": "Reanimate",
+        "text": "If at the start of your turn you controlled less minions than your opponent, you can spend 2 lifeforce to resurrect a minion for your graveyard that costs 3 or less."
+      },
+      {
+        "name": "Press the Advantage",
+        "text": "If at the start of your turn you controlled more minions than your opponent, you can spend 2 lifeforce to increase the attack of all of your minons by 1 until the end of the turn."
+      },
+      {
+        "name": "Corpse Explosion",
+        "text": "Once during each of your turns, you may spend 2 lifeforce to destroy a minion you control then deal 2 damage to all enemy minions."
+      }
+    ]
+  },
+  {
+    "name": "Osiris, The Undying King",
+    "type": "Hero",
+    "heroAbilities": [
+      {
+        "name": "Remnants of the Past",
+        "text": "Instead of drawing a card from your deck during your draw phase, you may draw a card of your choice from your graveyard. If you do, send the top card of your deck to the graveyard."
+      },
+      {
+        "name": "Moment of Ascension",
+        "text": "Once during your turn, when you draw a card from your deck or graveyard that costs 5 or less, you may play it for free this turn. If you do, banish it at the end of the turn."
+      },
+      {
+        "name": "Hand of the Forgotten King",
+        "text": "Once during your turn, you may pay 2 Lifeforce to return a banished card to your deck."
+      },
+      {
+        "name": "Path of the Afterlife",
+        "text": "Once during your turn, you may pay 2 Lifeforce to send a card from your deck to your graveyard."
+      }
+    ]
+  },
+  {
+    "name": "Isis, Mistress of Magic",
+    "type": "Hero",
+    "heroAbilities": [
+      {
+        "name": "Spellweaver's Boon",
+        "text": "The first spell you cast from your hand each turn costs 2 less Lifeforce."
+      },
+      {
+        "name": "Spellfire Mastery",
+        "text": "Your Magic cards inflict 1 extra damage."
+      },
+      {
+        "name": "Reclaimed Knowledge",
+        "text": "Once during your turn, you may pay 2 Lifeforce to return a spell from your graveyard to your hand."
+      },
+      {
+        "name": "Arcane Restoration",
+        "text": "Once per turn, you may pay 3 Lifeforce to either heal a hero for 3 or give a minion +2 Defense until the end of the turn."
+      }
+    ]
+  },
+  {
+    "name": "Ra, The Eternal Flame",
+    "type": "Hero",
+    "heroAbilities": [
+      {
+        "name": "Scorching Sunfire",
+        "text": "Once during your turn, you may pat 2 Lifeforce to inflict 2 damage to then enemy  hero."
+      },
+      {
+        "name": "Wrath of the Sun God",
+        "text": "At the start of your turn, select an enemy hero, if they control more minions than you, inflict damage to them equal to the difference up to a max of 2 damage."
+      },
+      {
+        "name": "Burning Vengeance",
+        "text": "Once during your turn, if an enemy hero takes at least 5 damage, force them to discard from their hand."
+      },
+      {
+        "name": "Pyre of Souls",
+        "text": "Once during your turn, you may choose three cards from your graveyard, remove them from the game then draw a card."
+      }
+    ]
+  },
+  {
+    "name": "Set, Herald of Chaos",
+    "type": "Hero",
+    "heroAbilities": [
+      {
+        "name": "Tainted Ground",
+        "text": "At the start of your turn, you may designate an enemy minion slot. Minions in that slot have their Attack and Defense reduced by 2 until you choose a different slot."
+      },
+      {
+        "name": "Aura of Decay",
+        "text": "At the end of your turn, each enemy character adjacent to another character takes 2 damage."
+      },
+      {
+        "name": "Fury of the Void",
+        "text": "If you control no minions at the start of your turn, ensnare an enemy minion, preventing it from receiving Minion Commands for one round."
+      },
+      {
+        "name": "Shifting Sands",
+        "text": "You may pay 2 Lifeforce to move an enemy minion to a different slot on its controller's field."
+      }
+    ]
+  }
+]
