@@ -1358,7 +1358,8 @@
         "text": "Once during each of your turns, you may spend 3 lifeforce to summon a 2 or less cost minion from your deck or graveyard."
       },
       {
-        "name": "Once during each of your turns, you may cast a spell with a cost of 5 or less from your deck by paying its cost plus an additional lifeforce."
+        "name": "Occult Insight",
+        "text": "Once during each of your turns, you may cast a spell with a cost of 5 or less from your deck by paying its cost plus an additional lifeforce."
       }
     ]
   },
